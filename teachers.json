@@ -1,50 +1,45 @@
-[
-    {
-        "id": 1,
-        "firstName": "Elizabete",
-        "lastName": "Brice",
-        "style": "zumba"
-    },
+{
+    "teachers": [
+        {
+            "id": 1,
+            "firstName": "Elizabete Brice",
+            "style": "zumba"
+        },
 
-    {
-        "id": 2,
-        "firstName": "Diana",
-        "lastName":"Petrova",
-        "style": "salsa"
-    },
+        {
+            "id": 2,
+            "firstName": "Diana Petrova",
+            "style": "salsa"
+        },
 
-    {
-        "id": 3,
-        "firstName": "Mike",
-        "lastName":"Rogers",
-        "style": "tango"
-    },
+        {
+            "id": 3,
+            "firstName": "Mike Rogers",
+            "style": "tango"
+        },
 
-    {
-        "id": 4,
-        "firstName": "Marija",
-        "lastName": "Adsone",
-        "style": "flamenco"
-    },
+        {
+            "id": 4,
+            "firstName": "Marija Adsone",
+            "style": "flamenco"
+        },
 
-    {
-        "id": 5,
-        "firstName": "Roberts",
-        "lastName":"Caune",
-        "style": "acrobatic"
-    },
+        {
+            "id": 5,
+            "firstName": "Roberts Caune",
+            "style": "acrobatic"
+        },
 
-    {
-        "id": 6,
-        "firstName": "Marks",
-        "lastName":"Vasiljevs",
-        "style": "tango"
-    },
+        {
+            "id": 6,
+            "firstName": "Marks Vasiljevs",
+            "style": "tango"
+        },
 
-    {
-        "id": 7,
-        "firstName": "Sofija",
-        "lastName":"Gaile",
-        "style": "salsa"
-    }
-]
+        {
+            "id": 7,
+            "firstName": "Sofija Gaile",
+            "style": "salsa"
+        }
+    ]
+}
